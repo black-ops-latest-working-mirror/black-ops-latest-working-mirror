@@ -20,9 +20,11 @@ How to Find the Latest Black Ops Working Mirror
 
 Get mirror links only from verified sources such as PGP-signed forum announcements (e.g., on Dread) or trusted community Telegram channels. Never trust unofficial posts or unsolicited links to avoid scams.
 
-Always verify before connecting. Use the latest official Black Ops mirror here: **http://hfptpr46ubwvzyrsja4r5ylpigfnmvjiw3ugdgfxsar6ryhtkmjm67ad.onion**
+Always verify before connecting. Use the latest official Black Ops mirror here: **http://blackopsaax7ieeljectvi3vn3a5m2wfssylcdqaswrvlbeptwzv5oid.onion**
  
-[<img src="/static/home.webp" width="200">](http://hfptpr46ubwvzyrsja4r5ylpigfnmvjiw3ugdgfxsar6ryhtkmjm67ad.onion)
+[<img src="/static/home.webp" width="200">](http://blackopsaax7ieeljectvi3vn3a5m2wfssylcdqaswrvlbeptwzv5oid.onion)
 
-<a href="http://hfptpr46ubwvzyrsja4r5ylpigfnmvjiw3ugdgfxsar6ryhtkmjm67ad.onion"><img src="/static/read.webp" alt="Verified blackops dark web" style="max-width: 100%;"></a>
+<a href="http://blackopsaax7ieeljectvi3vn3a5m2wfssylcdqaswrvlbeptwzv5oid.onion"><img src="/static/read.webp" alt="Verified blackops dark web" style="max-width: 100%;"></a>
  
+
+Update:  18 September 2025 onion 404 fixes
