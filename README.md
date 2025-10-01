@@ -27,4 +27,6 @@ Always verify before connecting. Use the latest official Black Ops mirror here: 
 <a href="http://blackopsaax7ieeljectvi3vn3a5m2wfssylcdqaswrvlbeptwzv5oid.onion"><img src="/static/read.webp" alt="Verified blackops dark web" style="max-width: 100%;"></a>
  
 
-Update:  18 September 2025 onion 404 fixes
+
+
+Update:  Wednesday 01 October 2025
